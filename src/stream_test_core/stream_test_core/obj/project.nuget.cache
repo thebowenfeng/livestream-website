@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "4aRcXnBjwplrb/Y1ugvOc0+LAbilQTfsb4dNmTKEYxqbWX7MjgFWjvXLNxtWl9htKkPj6DFvDGMwM9S0BLB6hA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\85751\\source\\repos\\stream_test_core\\stream_test_core\\stream_test_core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\85751\\.nuget\\packages\\h.engine.io\\1.1.7.1\\h.engine.io.1.1.7.1.nupkg.sha512",
+    "C:\\Users\\85751\\.nuget\\packages\\h.socket.io\\1.1.7.1\\h.socket.io.1.1.7.1.nupkg.sha512",
+    "C:\\Users\\85751\\.nuget\\packages\\h.websockets\\1.1.7.1\\h.websockets.1.1.7.1.nupkg.sha512",
+    "C:\\Users\\85751\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\85751\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\85751\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\85751\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\85751\\.nuget\\packages\\opencvsharp4\\4.5.2.20210404\\opencvsharp4.4.5.2.20210404.nupkg.sha512",
+    "C:\\Users\\85751\\.nuget\\packages\\opencvsharp4.runtime.win\\4.5.2.20210404\\opencvsharp4.runtime.win.4.5.2.20210404.nupkg.sha512",
+    "C:\\Users\\85751\\.nuget\\packages\\opencvsharp4.windows\\4.5.2.20210404\\opencvsharp4.windows.4.5.2.20210404.nupkg.sha512",
+    "C:\\Users\\85751\\.nuget\\packages\\opencvsharp4.wpfextensions\\4.5.2.20210404\\opencvsharp4.wpfextensions.4.5.2.20210404.nupkg.sha512",
+    "C:\\Users\\85751\\.nuget\\packages\\system.codedom\\5.0.0\\system.codedom.5.0.0.nupkg.sha512",
+    "C:\\Users\\85751\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512",
+    "C:\\Users\\85751\\.nuget\\packages\\system.management\\5.0.0\\system.management.5.0.0.nupkg.sha512",
+    "C:\\Users\\85751\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\85751\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\85751\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\85751\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

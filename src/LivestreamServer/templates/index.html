@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Welcome</title>
+</head>
+<body>
+<h1>List of online streams:</h1>
+<ul id="thelist">
+</ul>
+</body>
+</html>
+
+<script>
+    var myInterval = setInterval(function() {
+    fetch('http://' + document.domain + ':' + location.port + '/api/status')
+  .then((response) => {
+    return response.json();
+  })
+  .then((myJson) => {
+      var stream_list = document.getElementById("thelist")
+      stream_list.innerHTML = "";
+      var url = 'http://' + document.domain + ':' + location.port + "/streaming/"
+    for (var key in myJson) {
+        var link = url + key
+        stream_list.innerHTML += "<li>" + "<h3><a href=" + link + " target=\"_blank\" rel=\"noopener noreferrer\">" + key + "</a></h3>" + "</li>"
+}
+  });
+}, 1000);
+</script>
