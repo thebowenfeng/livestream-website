@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\85751\\source\\repos\\stream_test_core\\stream_test_core\\stream_test_core.csproj": {}
+    "C:\\Users\\85751\\Desktop\\Projects\\livestream-server\\src\\stream_test_core\\stream_test_core\\stream_test_core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\85751\\source\\repos\\stream_test_core\\stream_test_core\\stream_test_core.csproj": {
+    "C:\\Users\\85751\\Desktop\\Projects\\livestream-server\\src\\stream_test_core\\stream_test_core\\stream_test_core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\85751\\source\\repos\\stream_test_core\\stream_test_core\\stream_test_core.csproj",
+        "projectUniqueName": "C:\\Users\\85751\\Desktop\\Projects\\livestream-server\\src\\stream_test_core\\stream_test_core\\stream_test_core.csproj",
         "projectName": "stream_test_core",
-        "projectPath": "C:\\Users\\85751\\source\\repos\\stream_test_core\\stream_test_core\\stream_test_core.csproj",
+        "projectPath": "C:\\Users\\85751\\Desktop\\Projects\\livestream-server\\src\\stream_test_core\\stream_test_core\\stream_test_core.csproj",
         "packagesPath": "C:\\Users\\85751\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\85751\\source\\repos\\stream_test_core\\stream_test_core\\obj\\",
+        "outputPath": "C:\\Users\\85751\\Desktop\\Projects\\livestream-server\\src\\stream_test_core\\stream_test_core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\85751\\AppData\\Roaming\\NuGet\\NuGet.Config",

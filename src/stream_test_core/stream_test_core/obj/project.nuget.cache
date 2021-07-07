@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4aRcXnBjwplrb/Y1ugvOc0+LAbilQTfsb4dNmTKEYxqbWX7MjgFWjvXLNxtWl9htKkPj6DFvDGMwM9S0BLB6hA==",
+  "dgSpecHash": "FZdTsE85e6i/T75dYzMd14Bz/Ck1kaUG4VzoQ9m/4TNwZby7HIRxtAEpPTe5JKDVJ9VB4mwZRi2EfeYli27QMw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\85751\\source\\repos\\stream_test_core\\stream_test_core\\stream_test_core.csproj",
+  "projectFilePath": "C:\\Users\\85751\\Desktop\\Projects\\livestream-server\\src\\stream_test_core\\stream_test_core\\stream_test_core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\85751\\.nuget\\packages\\h.engine.io\\1.1.7.1\\h.engine.io.1.1.7.1.nupkg.sha512",
     "C:\\Users\\85751\\.nuget\\packages\\h.socket.io\\1.1.7.1\\h.socket.io.1.1.7.1.nupkg.sha512",
